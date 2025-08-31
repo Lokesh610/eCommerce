@@ -17,3 +17,7 @@ Version Control: Git, GitHub
 Future Improvements
 🗄️ Backend with Node.js + Express for order management.
 📦 Database integration (MongoDB/MySQL) for products & users.
+
+steps to follow
+-> download the zip file and extract it 
+-> click the index.html file and you will be redirected to the webpage.
